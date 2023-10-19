@@ -16,4 +16,4 @@ the educational process.
 
 ![dashboard](./Superstore_excel_dashboard.png)
 
-[Source data](./Sample - Superstore.xls)
+[Source data](./Sample_Superstore.xls)
